@@ -1,0 +1,17 @@
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.csproj.AssemblyReference.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.AssemblyInfoInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.AssemblyInfo.cs
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.csproj.CoreCompileInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\bin\Debug\net9.0\SS.Persistence.deps.json
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\bin\Debug\net9.0\SS.Persistence.runtimeconfig.json
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\bin\Debug\net9.0\SS.Persistence.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\bin\Debug\net9.0\SS.Persistence.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\bin\Debug\net9.0\SS.Domain.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\bin\Debug\net9.0\SS.Domain.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persi.7A3F082D.Up2Date
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\refint\SS.Persistence.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\SS.Persistence.genruntimeconfig.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Persistence\obj\Debug\net9.0\ref\SS.Persistence.dll
