@@ -1,0 +1,11 @@
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\SS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\SS.Domain.AssemblyInfoInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\SS.Domain.AssemblyInfo.cs
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\SS.Domain.csproj.CoreCompileInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\bin\Debug\net9.0\SS.Domain.deps.json
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\bin\Debug\net9.0\SS.Domain.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\bin\Debug\net9.0\SS.Domain.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\SS.Domain.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\refint\SS.Domain.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\SS.Domain.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Domain\obj\Debug\net9.0\ref\SS.Domain.dll
