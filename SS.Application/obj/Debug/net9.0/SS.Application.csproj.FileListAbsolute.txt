@@ -1,0 +1,15 @@
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Application.csproj.AssemblyReference.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Application.AssemblyInfoInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Application.AssemblyInfo.cs
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Application.csproj.CoreCompileInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\bin\Debug\net9.0\SS.Application.deps.json
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\bin\Debug\net9.0\SS.Application.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\bin\Debug\net9.0\SS.Application.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\bin\Debug\net9.0\SS.Domain.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\bin\Debug\net9.0\SS.Domain.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Appli.B58F8DDF.Up2Date
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Application.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\refint\SS.Application.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\SS.Application.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.Application\obj\Debug\net9.0\ref\SS.Application.dll
