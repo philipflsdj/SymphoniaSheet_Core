@@ -1,0 +1,11 @@
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\bin\Debug\net9.0\SS.MessageQueue.deps.json
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\bin\Debug\net9.0\SS.MessageQueue.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\bin\Debug\net9.0\SS.MessageQueue.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\SS.MessageQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\SS.MessageQueue.AssemblyInfoInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\SS.MessageQueue.AssemblyInfo.cs
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\SS.MessageQueue.csproj.CoreCompileInputs.cache
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\SS.MessageQueue.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\refint\SS.MessageQueue.dll
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\SS.MessageQueue.pdb
+C:\GitPessoal\SymphoniaSheet_Core\SS\SS.MessageQueue\obj\Debug\net9.0\ref\SS.MessageQueue.dll
