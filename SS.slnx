@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="SS.Application/SS.Application.csproj" />
+    <Project Path="SS.Domain/SS.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="SS.MessageQueue/SS.MessageQueue.csproj" />
+    <Project Path="SS.Persistence/SS.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="SS.Api/SS.Api.csproj" />
+  </Folder>
+  <Folder Name="/Tests/" />
+</Solution>
